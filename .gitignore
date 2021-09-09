@@ -1,0 +1,8 @@
+#	.gitignore
+*~
+*.jx
+*.o
+*.swp
+
+.git/*
+
